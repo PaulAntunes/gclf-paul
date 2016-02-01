@@ -1,0 +1,13 @@
+{
+    "name": "etudiqnt/gclf",
+    "description": "Gestion de copies legqles de films",
+    "authors": [
+        {
+            "name": "Paul ANTUNES",
+            "email": "paulantunes@hotmail.fr"
+        }
+    ],
+    "require": {
+        "jleagle/omdb-imdb-api-client": "^0.1.0"
+    }
+}
